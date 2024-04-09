@@ -1,0 +1,14 @@
+openai
+streamlit
+ffmpeg
+os
+pandas
+numpy
+numpy.linalg
+openai.embeddings_utils
+streamlit_chat
+streamlit-chat==0.0.2.2
+matplotlib
+scipy
+plotly
+scikit-learn
